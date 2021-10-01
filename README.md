@@ -1,8 +1,5 @@
-# Unichat boilerplace
-
-This is a modded creat-react-app project. It comes with:
-
-- A manifest with correct packages
-- Useless files taken out
-- Needed folder structure
-- CSS
+1. open your terminal
+2. write npm run build
+3. put your api keys
+4. write in your terminal npm start
+5. enjoy
